@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ShowIn="navigation_view">
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black"
+            android:title="@string/nav_home_text" />
+
+        <item android:id="@+id/nav_account"
+            android:icon="@drawable/ic_person_black"
+            android:title="@string/nav_account_text" />
+
+        <item android:id="@+id/nav_friends"
+            android:icon="@drawable/nav_friends"
+            android:title="@string/nav_friends_text" />
+
+        <item android:id="@+id/nav_find_friends"
+            android:icon="@drawable/nav_find_friends"
+            android:title="@string/nav_find_friends_text" />
+
+        <item android:id="@+id/nav_followers"
+            android:icon="@drawable/followers"
+            android:title="@string/nav_followers_text" />
+
+        <item android:id="@+id/nav_messages"
+            android:icon="@drawable/messages"
+            android:title="@string/nav_messages_text" />
+
+        <item android:id="@+id/nav_find_adventure"
+            android:icon="@drawable/find_adventure"
+            android:title="@string/nav_find_adventure_text" />
+
+        <item android:id="@+id/nav_saved_adventure"
+            android:icon="@drawable/saved_adventure"
+            android:title="@string/nav_saved_adventures_text" />
+
+        <item android:id="@+id/nav_create_adventure"
+            android:icon="@drawable/create_adventure"
+            android:title="@string/nav_create_adventure" />
+
+    </group>
+</menu>
