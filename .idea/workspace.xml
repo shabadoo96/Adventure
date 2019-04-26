@@ -151,7 +151,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,6 +168,7 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -176,7 +176,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="device.picker.selection" value="ce081718a2dcea3b017e" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Adventure-Active-Platform-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -300,9 +300,9 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32878152" />
       <window_info anchor="bottom" id="Logcat" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" sideWeight="0.49726278" visible="true" weight="0.31756046" />
-      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5027372" side_tool="true" visible="true" weight="0.31756046" />
-      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.49817517" weight="0.32597265" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" sideWeight="0.49543795" visible="true" weight="0.31756046" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.504562" side_tool="true" visible="true" weight="0.31756046" />
+      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.49726278" weight="0.32597265" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.32809225" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.32809225" />
@@ -593,6 +593,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/sg/com/kaplan/android/Adventure/RegisterActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -644,9 +645,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Adventure-master.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/gradlew">
