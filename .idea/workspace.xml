@@ -6,7 +6,10 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cfeebed-a9d3-4a43-8d12-1c29a073fc53" name="Default Changelist" comment="" />
+    <list default="true" id="6cfeebed-a9d3-4a43-8d12-1c29a073fc53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,9 +94,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gradlew">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-270" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="77" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -138,6 +152,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/sg/com/kaplan/android/Adventure/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/side_menu.xml" />
         <option value="$PROJECT_DIR$/app/src/androidTest/java/sg/com/kaplan/android/Adventure/ExampleInstrumentedTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -282,14 +297,21 @@
       <option name="project" value="LOCAL" />
       <updated>1556250326060</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="comit includes:&#10;&#10;update to androidX - courtesy of Father-Rabi&#10;&#10;Side Navigation Bar update &#10;&#10;created place holder fragments for:&#10;- Create Adventure&#10;- Find Adventure&#10;- Saved Adventures&#10;- Messages&#10;- Friends&#10;- Find Friends&#10;- Followers&#10;&#10;linked place holders to their associated buttons in side navigation header">
+      <created>1556255686310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556255686311</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1148" height="1080" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.35857666" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.35857666" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -300,8 +322,8 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32878152" />
       <window_info anchor="bottom" id="Logcat" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" sideWeight="0.49543795" visible="true" weight="0.31756046" />
-      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.504562" side_tool="true" visible="true" weight="0.31756046" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49543795" visible="true" weight="0.3182297" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.504562" side_tool="true" visible="true" weight="0.3182297" />
       <window_info anchor="bottom" id="Build" order="5" sideWeight="0.49726278" weight="0.32597265" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.32809225" />
@@ -333,9 +355,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="comit includes:&#10;&#10;update to androidX - courtesy of Father-Rabi&#10;&#10;Side Navigation Bar update &#10;&#10;created place holder fragments for:&#10;- Create Adventure&#10;- Find Adventure&#10;- Saved Adventures&#10;- Messages&#10;- Friends&#10;- Find Friends&#10;- Followers&#10;&#10;linked place holders to their associated buttons in side navigation header" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/searchable.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -648,7 +667,16 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="77" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
